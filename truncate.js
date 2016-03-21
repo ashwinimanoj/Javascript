@@ -1,5 +1,5 @@
 function truncate(str, num) {
-  // Clear out that junk in your trunk
+  
  var strLength = str.length;
  if(num<=3)
    {
